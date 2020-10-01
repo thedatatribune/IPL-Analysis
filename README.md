@@ -27,28 +27,28 @@ Here is the _folder structure conventions_ for the master branch of this project
 ```
     .
     .
-    ├── Codes                   # Stores all the codes and programs in different languages/formats
+    ├── Codes                   # Stores all the codes and programs
     │
-    ├── Visualizations          # Holds visuals or graphs generated after exploratory data analysis
+    ├── Visualizations          # Holds visuals or graphs (from exploratory data analysis)
     │
     ├── src                     # Holds content used in formal documentations
     │   │
-    │   ├── img                 # Stores images, screenshots and gifs etc.. used in documentation
+    │   ├── img                 # Stores images etc.. used in project documentation
     │   │
     │   .
     │   .
     │   └── ...         
     │
-    ├── Codes.md                # Formal intro and info about codes and their usage
+    ├── Codes.md                # Formal info about codes and their usage
     │
-    ├── Datasets.md             # Information about the datasets used and links to them
+    ├── Datasets.md             # Information & links to the datasets used
     │
-    ├── Visualizations.md       # Documentations for the discovered visualizations (from data analysis)   
+    ├── Visualizations.md       # Documentations on discovered visualizations (from data analysis)   
     │   
-    ├── IPL2020_Stats.md        # Latest stats of 2020
+    ├── IPL2020_Stats.md        # Latest stats on IPL-2020
     │
     │
-    ├── contributors.md         # Holds information and link to the contributors' github profile
+    ├── contributors.md         # Link to the contributors' github profiles
     │
     ├── README.md                  
     │
