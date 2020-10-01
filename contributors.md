@@ -16,6 +16,10 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 ## Contributors
 
 * [Ravi Prakash](https://github.com/ravi-prakash1907/)  
+* [Vaibhav Gupta](https://github.com/guptavaibhav159/)  
+* [Niharika Pandit](https://github.com/niharika412/)  
+* [Kishan Yadav](https://github.com/kishanpython/)  
+* [kraken-sudo](https://github.com/kraken-sudo/)  
 
 ---
 
