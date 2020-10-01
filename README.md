@@ -58,14 +58,18 @@ git checkout my-branch
 6. Push your contribution to your cloned repository  
 ```git push origin my-branch```
 
-## Contributors' List
+7. Make a pull request.
 
-Don't forget to add your name into the ```Contributors.md``` in following format:  
-```* [Your Name](https://github.com/<your-github-username>/)```  
+* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
+```markdown
+   @all-contributors please add @<username> for <contributions>
+```
 
-Please read [Contributors.md](https://github.com/Team-thedatatribune/Contributors.md) for details on our code of conduct, and the process for submitting pull requests to us.
+## Contributors' List:
 
-Find those who participated in this project in the [contributors'](https://github.com/your/project/contributors) list!
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+
 
 ## License
 
