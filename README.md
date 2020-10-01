@@ -10,4 +10,3 @@ Let's come togather and contribute!!
 ---
   
 _Don't forget to add yourself in the contributors' markdown file!_
-  
