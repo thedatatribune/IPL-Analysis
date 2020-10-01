@@ -1,5 +1,7 @@
 # IPL Analysis  
-### A Data Science Project
+![IPL Header](./src/img/header.png)  
+
+### A Data Science Project  
 
 ![Issues](https://img.shields.io/github/issues/Team-thedatatribune/IPL-Analysis)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Team-thedatatribune/IPL-Analysis)
