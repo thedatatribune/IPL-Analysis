@@ -11,8 +11,8 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 **Organization's Profile**
 [The Data Tribune](https://github.com/thedatatribune/)
 
----
-
+  
+  
 ## Contributors
 
 ---
