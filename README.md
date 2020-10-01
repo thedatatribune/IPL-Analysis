@@ -8,7 +8,7 @@ Let's come together and contribute!!
   
   
 ---
-Here is the _folder structure conventions_ for the master branch of this project:  
+Here is the _folder structure conventions_ for the dataset-defination branch of this project:  
 
 ```
     .
