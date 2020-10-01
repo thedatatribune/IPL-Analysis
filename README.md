@@ -8,6 +8,24 @@ Let's come together and contribute!!
   
   
 ---
+Here is the _folder structure conventions_ for the master branch of this project:  
+
+```
+    .
+    .
+    ├── Datasets                # Stores all the datasets used in the project
+    │
+    ├── README.md
+    |
+    ├── deliveries.md           # Names of the 21 unique column headers for the deliveries.csv file
+    │
+    ├── matches.md              # Names of the 18 column headers for the matches.csv file
+    │
+    └── ...
+```
+
+
+
 
 
 ## Available Datasets :
