@@ -22,7 +22,7 @@ This project has **two** branches:
 >   _This branch basically holds the datasets and their proper documentations_  
 
   
-Here is the _folder structure conventions_ for the master branch of this project:  
+_Folder structure conventions_ for the **master** branch of this project:  
 
 ```
     .
@@ -56,6 +56,23 @@ Here is the _folder structure conventions_ for the master branch of this project
 ```
   
 
+_Folder structure conventions_ for the **dataset-defination** branch of this project:   
+  
+```
+    .
+    .
+    ├── Datasets                # Stores all the datasets used in the project
+    │
+    ├── README.md
+    |
+    ├── deliveries.md           # Names of the 21 unique column headers for the deliveries.csv file
+    │
+    ├── matches.md              # Names of the 18 column headers for the matches.csv file
+    │
+    └── ...
+```  
+  
+  
 ## Getting Started
 
  Just going through a certain steps, you can easily begin with your work!  
@@ -118,3 +135,4 @@ Find those who participated in this project in the [contributors'](https://githu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
