@@ -10,7 +10,43 @@
 
 ---
 
-This project aims to collect the various data related to _**Indian Premier League**_ regardless of any perticular season. Our basic focus is to bring **unseen facts** through visualizing the various data figures, so that we can avail a range of good ideas & scopes about the possible data science work.
+This project aims to collect the various data related to _**Indian Premier League**_ regardless of any perticular season. Our basic focus is to bring **unseen facts** through visualizing the various data figures, so that we can avail a range of good ideas & scopes about the possible data science work.  
+
+## Folder Structure Conventions
+
+Here is the _Folder Structure Conventions_ for the master branch of this project:  
+
+```
+    .
+    .
+    ├── Codes                   # Stores all the codes and programs in different languages/formats
+    │
+    ├── Visualizations          # Holds visuals or graphs generated after exploratory data analysis
+    │
+    ├── src                     # Holds content used in formal documentations
+    │   │
+    │   ├── img                 # Stores images, screenshots and gifs etc.. used in documentation
+    │   │
+    │   .
+    │   .
+    │   └── ...         
+    │
+    ├── Codes.md                # Formal intro and info about codes and their usage
+    │
+    ├── Datasets.md             # Information about the datasets used and links to them
+    │
+    ├── Visualizations.md       # Documentations for the discovered visualizations (from data analysis)   
+    │   
+    ├── IPL2020_Stats.md        # Formal intro and info about codes and their usage
+    │
+    │
+    ├── contributors.md         # Holds information and link to the contributors' github profile
+    │
+    ├── README.md                  
+    │
+    └── ...
+```
+  
 
 ## Getting Started
 
