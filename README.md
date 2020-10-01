@@ -1,4 +1,4 @@
-# IPL Analysis
+# IPL Analysis project
 ### A Data Science Project
 
 ![Issues](https://img.shields.io/github/issues/Team-thedatatribune/IPL-Analysis)
