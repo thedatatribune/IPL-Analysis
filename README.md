@@ -14,7 +14,14 @@ This project aims to collect the various data related to _**Indian Premier Leagu
 
 ## Folder Structure Conventions
 
-Here is the _Folder Structure Conventions_ for the master branch of this project:  
+This project has **two** branches:
+> 1. master:  
+>   _It's the default and the main branch of the project_
+> 2. dataset-definations:
+>   _This branch basically holds the datasets and their proper documentations_  
+
+  
+Here is the _folder structure conventions_ for the master branch of this project:  
 
 ```
     .
@@ -94,8 +101,9 @@ git checkout my-branch
 > * Create/Enhance your Documantation or do the Grammer Corrections  
   
 6. Push your contribution to your cloned repository  
-```git push origin my-branch```
+```git push origin my-branch```  
 
+  
 ## Contributors' List
 
 Don't forget to add your name into the ```Contributors.md``` in following format:  
@@ -103,8 +111,9 @@ Don't forget to add your name into the ```Contributors.md``` in following format
 
 Please read [Contributors.md](https://github.com/Team-thedatatribune/Contributors.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-Find those who participated in this project in the [contributors'](https://github.com/your/project/contributors) list!
-
+Find those who participated in this project in the [contributors'](https://github.com/your/project/contributors) list!  
+  
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
