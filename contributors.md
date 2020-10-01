@@ -11,11 +11,6 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 **Organization's Profile**  
 [The Data Tribune](https://github.com/thedatatribune/)
 
-  
-  
-## Contributors
-
-* [Ravi Prakash](https://github.com/ravi-prakash1907/)  
 ---
 
 Are you not listed in this file even after being a contributor???  
