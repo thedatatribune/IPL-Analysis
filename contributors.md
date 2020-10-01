@@ -5,10 +5,10 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 
 ## Maintainer
 
-**Initial Author**
+**Initial Author**  
 [Team - The Data Tribune](https://github.com/Team-thedatatribune/)
 
-**Organization's Profile**
+**Organization's Profile**  
 [The Data Tribune](https://github.com/thedatatribune/)
 
   
