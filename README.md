@@ -16,21 +16,20 @@ This project aims to collect the various data related to _**Indian Premier Leagu
  Have a glimpse below:  
 
  1. **Grab the Data:**  
- > Explore the various datasets available in the [```Datasets```](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) directory.  
- > You can contribute by adding your own dataset to this branch, as well!!  
-
+ Explore the various datasets available in the [```Datasets```](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) directory.  
+ You can contribute by adding your own dataset to this branch, as well!!  
 
  2. **Code Parallelly**
- > Find the dataset that interests you and begin with the codes to analyse the data.  
- > You can share your code regardless of the language you use to code.  
+ Find the dataset that interests you and begin with the codes to analyse the data.  
+ You can share your code regardless of the language you use to code.  
 
  3. **Add Visualizations**  
- > You can do exploratory data analysis on the datasets and creat nice graphs or other visualizations too that can bring good insights.  
- > Visualization would make it more easy to understand the datasets.  
+ You can do exploratory data analysis on the datasets and creat nice graphs or other visualizations too that can bring good insights.  
+ Visualization would make it more easy to understand the datasets.  
 
  4. **Work Independently**  
- > If you are confident enough in some other field say documentation/content-presentation or enhencement, you are most welcome.  
- > You can also contribute with any other work, apart from those which are mentioned above. Just, make sure they are relavent to this project.
+ If you are confident enough in some other field say documentation/content-presentation or enhencement, you are most welcome.  
+ You can also contribute with any other work, apart from those which are mentioned above. Just, make sure they are relavent to this project.
   
 
 ## How to Contribute?
