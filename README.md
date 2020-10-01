@@ -12,6 +12,12 @@ Let's come together and contribute!!
 
 Available Datasets :
 
-✨ [deliveries.csv]( https://github.com/Team-thedatatribune/IPL-Analysis/blob/dataset-defination/Datasets/deliveries.csv) - Has all the deliveries made by the players in a comma-seperated values format. The column-headers are match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder.
+✨ [deliveries.csv]( https://github.com/Team-thedatatribune/IPL-Analysis/blob/dataset-defination/Datasets/deliveries.csv) -   
+> It has all the deliveries made by the players in a comma-seperated values format.  
+> There are total **21** column-headers in this dataset.  
+> It holds the dataset upto 2017  
+> Click [here](./deliveries.md) for further details.  
+
+---
   
 _Don't forget to add yourself in the contributors' markdown file!_
