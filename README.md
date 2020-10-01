@@ -14,10 +14,11 @@ This project aims to collect the various data related to _**Indian Premier Leagu
 
 ## Folder Structure Conventions
 
-This project has **two** branches:
+This project has **two** branches:  
+
 > 1. master:  
 >   _It's the default and the main branch of the project_
-> 2. dataset-definations:
+> 2. dataset-definations:  
 >   _This branch basically holds the datasets and their proper documentations_  
 
   
