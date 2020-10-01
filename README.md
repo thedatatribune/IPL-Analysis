@@ -37,7 +37,7 @@ Here is the _Folder Structure Conventions_ for the master branch of this project
     │
     ├── Visualizations.md       # Documentations for the discovered visualizations (from data analysis)   
     │   
-    ├── IPL2020_Stats.md        # Formal intro and info about codes and their usage
+    ├── IPL2020_Stats.md        # Latest stats of 2020
     │
     │
     ├── contributors.md         # Holds information and link to the contributors' github profile
