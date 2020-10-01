@@ -10,7 +10,7 @@
 
 ---
 
-This project aims to collect the various data related to _**Indian Premier League**_ regardless of any perticular season. Our basic focus is to bring **unseen facts** through visualizing the various data figures, so that we can avail a range of good ideas & scopes about the possible data science work.  
+This project aims to collect the various data related to _**Indian Premier League**_ regardless of any particular season. Our basic focus is to bring **unseen facts** through visualizing the various data figures, so that we can avail a range of good ideas & scopes about the possible data science work.  
 
 ## Folder Structure Conventions
 
@@ -70,7 +70,7 @@ Here is the _folder structure conventions_ for the master branch of this project
  You can share your code regardless of the language you use to code.  
 
  3. **Add Visualizations**  
- You can do exploratory data analysis on the datasets and creat nice graphs or other visualizations too that can bring good insights.  
+ You can do exploratory data analysis on the datasets and create nice graphs or other visualizations too that can bring good insights.  
  Visualization would make it more easy to understand the datasets.  
 
  4. **Work Independently**  
@@ -88,7 +88,7 @@ Follow the following the steps to contribute:
 
 3. Open the cloned repository in any of the text editor
 
-4. Before you begin with editing, create a new branch and chouckout the into it
+4. Before you begin with editing, create a new branch and checkout into it
 ```
 git branch my-branch
 git checkout my-branch
@@ -99,7 +99,7 @@ git checkout my-branch
 > * Add Code  
 > * Add Visualizations  
 > * Add Hot Facts  
-> * Create/Enhance your Documantation or do the Grammer Corrections  
+> * Create/Enhance your Documantation or do the Grammar Corrections  
   
 6. Push your contribution to your cloned repository  
 ```git push origin my-branch```  
