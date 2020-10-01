@@ -1,0 +1,1 @@
+This dataset contain ipl 2017 and 2018 matches data. Columns in this datasets are :- season	city	date	team1	team2	toss_winner	toss_decision	result	dl_applied	winner win_by_runs	win_by_wickets	player_of_match	venue	umpire1	umpire2	umpire3.
