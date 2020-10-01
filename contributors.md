@@ -19,7 +19,8 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 * [Vaibhav Gupta](https://github.com/guptavaibhav159/)  
 * [Niharika Pandit](https://github.com/niharika412/)  
 * [Kishan Yadav](https://github.com/kishanpython/)  
-* [kraken-sudo](https://github.com/kraken-sudo/)  
+* [kraken-sudo](https://github.com/kraken-sudo/)
+* [Siddhant Khare](https://github.com/Siddhant-K-code/)
 
 ---
 
