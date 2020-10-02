@@ -21,7 +21,7 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 * [Kishan Yadav](https://github.com/kishanpython/)  
 * [kraken-sudo](https://github.com/kraken-sudo/)
 * [Siddhant Khare](https://github.com/Siddhant-K-code/)
-
+* [Ekemini Okpongkpong](https://github.com/KemmieKemy)
 ---
 
 Are you not listed in this file even after being a contributor???  
