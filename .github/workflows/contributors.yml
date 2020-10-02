@@ -2,9 +2,9 @@ name: Add contributors
 on:
   schedule:
     - cron:  '20 20 * * *'
-# push:
-#   branches:
-#     - master
+  push:
+    branches:
+      - master
 
 jobs:
   add-contributors:
@@ -19,6 +19,6 @@ jobs:
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
         FONT_SIZE: '14'
-        PATH: '/CONTRIBUTORS.md'
+        PATH: '/testContributor.md'
         COMMIT_MESSAGE: 'updated contribution wall'
         AVATAR_SHAPE: 'round'
