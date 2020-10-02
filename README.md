@@ -75,7 +75,7 @@ _Folder structure conventions_ for the **dataset-defination** branch of this pro
     ├── Datasets                # Stores all the datasets used in the project
     │
     ├── README.md
-    |
+    │
     ├── deliveries.md           # Names of the 21 unique column headers for the deliveries.csv file
     │
     ├── matches.md              # Names of the 18 column headers for the matches.csv file
