@@ -144,10 +144,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   
 Don't forget to add your name into the ```Contributors.md``` in following format:  
 ```* [Your Name](https://github.com/<your-github-username>/)```  
-
-Please read [Contributors.md](https://github.com/Team-thedatatribune/Contributors.md) for details on our code of conduct, and the process for submitting pull requests to us.  
   
-Find those who participated in this project in the [contributors'](https://github.com/your/project/contributors) list!  
+Find those who participated in this project in the [contributors'](./contributors.md) list!  
 
 ## License
 
