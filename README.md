@@ -23,7 +23,13 @@ Let's come together and contribute!!
  It has all the matches played since 2008.  
  All the data are in a comma-seperated values format.  
  There are total **18** column-headers in this dataset.  
- It holds the dataset upto 2017  
+ It holds the dataset upto 2017   
+
+
+✨ [players.csv]( https://github.com/Team-thedatatribune/IPL-Analysis/blob/dataset-defination/Datasets/players.csv) -   
+ This file has information about all the players.  
+ All the data are in a comma-seperated values format.  
+ There are total **5** column-headers in this dataset.  
 
 ---
   
