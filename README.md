@@ -134,13 +134,12 @@ git checkout my-branch
 7. Make a pull request.
 
 ## Contributors' List
-
+<!-- 
 * You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
 ```markdown
    @all-contributors please add @<username> for <contributions>
 ```
-
-<!-- Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):  -->
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):  -->
   
 Find those who participated in this project in the [contributors'](https://github.com/your/project/contributors) list!  
 
