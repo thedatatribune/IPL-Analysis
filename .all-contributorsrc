@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ravi-prakash1907",
+      "name": "Ravi Prakash",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38535224?v=4",
+      "profile": "https://ravi-prakash1907.gitlab.io/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "IPL-Analysis",
+  "projectOwner": "Team-thedatatribune",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
