@@ -21,6 +21,7 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
     <td align="center"><a href="https://medium.com/@kemmie"><img src="https://avatars1.githubusercontent.com/u/26260619?v=4" width="100px;" alt=""/><br /><sub><b>Ekemini Okpongkpong</b></sub></a><br /><a href="https://github.com/Team-thedatatribune/IPL-Analysis/commits?author=KemmieKemy" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/abhisht51"><img src="https://avatars1.githubusercontent.com/u/39940817?v=4" width="100px;" alt=""/><br /><sub><b>Abhisht Singh</b></sub></a><br /><a href="https://github.com/Team-thedatatribune/IPL-Analysis/commits?author=abhisht51" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100px;" alt=""/><br /><sub><b>Siddhant Khare</b></sub></a><br /><a href="https://github.com/Team-thedatatribune/IPL-Analysis/commits?author=Siddhant-K-code" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/relaxxpls"><img src="https://avatars3.githubusercontent.com/u/63250453?v=4" width="100px;" alt=""/><br /><sub><b>Laxman Desai</b></sub></a><br /><a href="#content-relaxxpls" title="Content">🖋</a></td>
   </tr>
 </table>
 
