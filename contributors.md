@@ -22,6 +22,7 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
     <td align="center"><a href="https://github.com/abhisht51"><img src="https://avatars1.githubusercontent.com/u/39940817?v=4" width="100px;" alt=""/><br /><sub><b>Abhisht Singh</b></sub></a><br /><a href="https://github.com/Team-thedatatribune/IPL-Analysis/commits?author=abhisht51" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100px;" alt=""/><br /><sub><b>Siddhant Khare</b></sub></a><br /><a href="https://github.com/Team-thedatatribune/IPL-Analysis/commits?author=Siddhant-K-code" title="Code">💻</a></td>
     <td align="center"><a href="https://niharika412.github.io/"><img src="https://avatars3.githubusercontent.com/u/37020410?v=4" width="100px;" alt=""/><br /><sub><b>Niharika Pandit</b></sub></a><br /><a href="https://github.com/Team-thedatatribune/IPL-Analysis/commits?author=niharika412" title="Code">💻</a> <a href="#content-niharika412" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/kishanpython"><img src="https://avatars3.githubusercontent.com/u/42211066?v=4" width="100px;" alt=""/><br /><sub><b>Kishan Yadav</b></sub></a><br /><a href="#content-kishanpython" title="Content">🖋</a></td>
   </tr>
 </table>
 
