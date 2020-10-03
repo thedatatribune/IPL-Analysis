@@ -4,7 +4,7 @@
 
 We are maintaining a file called [```Stats2020.md```](./Stats2020.md) to sore the latest data and fun facts!  
 
-## Help us to improve the IPL-Analysis documentation!
+## Improve the IPL-Analysis documentation!
 
 Thanks for your interest in the project!  
 Pull Requests are welcomed for all the possible improvements i.e. from little Typos & Grammar Corrections fixes to the introduction Novel Outcome after Data Analysis.  
@@ -58,4 +58,4 @@ _We are eager to see you extending your hands to work along with us._
   
 ---
   
-[Back to Home](./../)
+[Back to Home](https://team-thedatatribune.github.io/IPL-Analysis/)
