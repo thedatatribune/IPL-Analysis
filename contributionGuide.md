@@ -47,6 +47,7 @@ git push origin my-branch
 ```markdown
    @all-contributors please add @<username> for <contributions-type>
 ```
+
 _Just relace <username> with your name and <contributors-type> with the type of contribution._   
 
 You can find the contribution types at [emoji key](https://allcontributors.org/docs/en/emoji-key). Thanks goes to these wonderful people!  
