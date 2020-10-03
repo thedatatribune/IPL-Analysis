@@ -1,6 +1,6 @@
 # IPL Analysis 🏏  
 
-### A Data Science Project  
+### A Data Science Project 📊  
 
  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 ![All Contributors](https://img.shields.io/github/contributors/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
