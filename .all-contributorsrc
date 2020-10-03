@@ -11,7 +11,9 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/38535224?v=4",
       "profile": "https://ravi-prakash1907.gitlab.io/",
       "contributions": [
-        "content"
+        "content",
+        "code",
+        "design"
       ]
     },
     {
@@ -49,9 +51,45 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "guptavaibhav159",
+      "name": "guptavaibhav159",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72003248?v=4",
+      "profile": "https://github.com/guptavaibhav159",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "niharika412",
+      "name": "Niharika Pandit",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37020410?v=4",
+      "profile": "https://niharika412.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kishanpython",
+      "name": "Kishan Yadav",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42211066?v=4",
+      "profile": "https://github.com/kishanpython",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kraken-sudo",
+      "name": "kraken-sudo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/65814097?v=4",
+      "profile": "https://github.com/kraken-sudo",
+      "contributions": [
+        "content"
+      ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 6,
   "projectName": "IPL-Analysis",
   "projectOwner": "Team-thedatatribune",
   "repoType": "github",
