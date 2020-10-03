@@ -1,4 +1,4 @@
-# MIT License
+## MIT License
 
 **Copyright** (c) 2020 [**The Data Tribune**](https://thedatatribune.com/)
 
