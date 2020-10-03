@@ -1,13 +1,10 @@
----
-id: contribute
-title: Contribute, and help us improve
----
+# Contribute & Help Us Improve
 
 > Call for data providers! We're looking for [latest data providers](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) for onging IPL seasion 2020!
 
 We are maintaining a file called [```Stats2020.md```](./Stats2020.md) to sore the latest data and fun facts!  
 
-## Help us to improve the IPL-analysis documentation!
+## Help us to improve the IPL-Analysis documentation!
 
 Thanks for your interest in the project!  
 Pull Requests are welcomed for all the possible improvements i.e. from little Typos & Grammar Corrections fixes to the introduction Novel Outcome after Data Analysis.  
@@ -57,4 +54,8 @@ You can find the contribution types at [emoji key](https://allcontributors.org/d
   
 ### A Long Way to Go...  
 
-_We are eager to see you extending your hands to work along with us._
+_We are eager to see you extending your hands to work along with us._  
+  
+---
+  
+[Back to Home](./README)
