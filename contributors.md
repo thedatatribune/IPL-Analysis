@@ -14,6 +14,21 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
   
   
 ## Contributors
+  
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://ravi-prakash1907.gitlab.io/"><img src="https://avatars2.githubusercontent.com/u/38535224?v=4" width="100px;" alt=""/><br /><sub><b>Ravi Prakash</b></sub></a><br /><a href="#content-ravi-prakash1907" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
 
 * [Ravi Prakash](https://github.com/ravi-prakash1907/)  
 * [Vaibhav Gupta](https://github.com/guptavaibhav159/)  
