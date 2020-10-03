@@ -14,14 +14,14 @@ You can easily access the complete code at [https://github.com/Team-thedatatribu
 ## How to's: 🤔 
 ### Contributing to this repository
 Follow the following the steps to contribute:  
-1. Fork [this](https://github.com/Team-thedatatribune/IPL-Analysis) repository
+1. **Fork** [this](https://github.com/Team-thedatatribune/IPL-Analysis) repository  
 
-2. Clone your fork using following simple terminal command  
+2. **Clone** your fork using following simple terminal command  
 ```git clone https://github.com/<your-github-username>/IPL-Analysis.git```
 
-3. Open the cloned repository in any of the text editor
+3. Open the cloned repository in any of the **text editor**  
 
-4. Before you begin with editing, create a new branch and checkout into it
+4. Before you begin with editing, create a new branch and checkout into it  
 ```
 git branch my-branch
 git checkout my-branch
@@ -39,7 +39,7 @@ git checkout my-branch
 git push origin my-branch
 ```  
 
-7. **Pull Request:** Finally make a pull request mentioning the issue (if any).
+7. **Pull Request:** Finally make a pull request mentioning the issue (if any).  
 
 ## Add yourself as a contributor ➕
 
@@ -47,7 +47,8 @@ git push origin my-branch
 ```markdown
    @all-contributors please add @<username> for <contributions-type>
 ```  
-Just relace <username> with your name and <contributors-type> with the type of contribution.   
+Just relace <username> with your name and <contributors-type> with the type of contribution.  
+  
 You can find the contribution types at [emoji key](https://allcontributors.org/docs/en/emoji-key). Thanks goes to these wonderful people!  
   
   
