@@ -42,6 +42,15 @@
       ]
     },
     {
+      "login": "niharika412",
+      "name": "Niharika Pandit",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37020410?v=4",
+      "profile": "https://niharika412.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "kishanpython",
       "name": "Kishan Yadav",
       "avatar_url": "https://avatars3.githubusercontent.com/u/42211066?v=4",
@@ -51,7 +60,7 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 5,
   "projectName": "IPL-Analysis",
   "projectOwner": "Team-thedatatribune",
   "repoType": "github",
