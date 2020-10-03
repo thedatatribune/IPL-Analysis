@@ -142,12 +142,12 @@ git checkout my-branch
 
 ## Add Yourself as a Contributor
 
-* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution.  
+* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors-type> with the type of contribution.  
  
 ```markdown
-   @all-contributors please add @<username> for <contributions>
+   @all-contributors please add @<username> for <contributions-type>
 ```
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key))! You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key).  
+You can find the contribution types at [emoji key](https://allcontributors.org/docs/en/emoji-key). Thanks goes to these wonderful people!  
 Checkout our [contributors' list](./contributors.md) now!  
 
 ## License
