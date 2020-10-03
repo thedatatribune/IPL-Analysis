@@ -147,10 +147,8 @@ git checkout my-branch
 ```markdown
    @all-contributors please add @<username> for <contributions>
 ```
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key))! You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key).
- :  
-
-Find those who participated in this project in the [contributors'](./contributors.md) list!  
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key))! You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key).  
+Checkout our [contributors' list](./contributors.md) now!  
 
 ## License
 
