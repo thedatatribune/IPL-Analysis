@@ -1,17 +1,17 @@
-## Contribute & Help Us Improve
+## Contribute & Help Us Improve 🤝
 
 > Call for data providers! We're looking for [latest data providers](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) for onging IPL seasion 2020!
 
 We are maintaining a file called [```Stats2020.md```](./Stats2020.md) to sore the latest data and fun facts!  
 
-## Improve the IPL-Analysis documentation!
+## Improve the IPL-Analysis documentation! 🖆
 
 Thanks for your interest in the project!  
 Pull Requests are welcomed for all the possible improvements i.e. from little Typos & Grammar Corrections fixes to the introduction Novel Outcome after Data Analysis.  
   
 You can easily access the complete code at [https://github.com/Team-thedatatribune/IPL-Analysis](https://github.com/Team-thedatatribune/IPL-Analysis/).  
 
-## How to's:
+## How to's: 🤔 
 ### Contributing to this repository
 Follow the following the steps to contribute:  
 1. Fork [this](https://github.com/Team-thedatatribune/IPL-Analysis) repository
@@ -41,7 +41,7 @@ git push origin my-branch
 
 7. **Pull Request:** Finally make a pull request mentioning the issue (if any).
 
-## Add yourself as a contributor
+## Add yourself as a contributor ➕
 
 * You are almost there, now it time for you to be listed on our [contributors' page](./contributors.md). Just find your pull request and comment a message right below in the following fromat:  
 ```markdown
