@@ -1,12 +1,29 @@
 # IPL Analysis  
-![IPL Header](./src/img/header.png)  
 
 ### A Data Science Project  
 
-![Issues](https://img.shields.io/github/issues/Team-thedatatribune/IPL-Analysis)
-![Pull Requests](https://img.shields.io/github/issues-pr/Team-thedatatribune/IPL-Analysis)
-![Forks](https://img.shields.io/github/forks/Team-thedatatribune/IPL-Analysis)
-![Stars](https://img.shields.io/github/stars/Team-thedatatribune/IPL-Analysis)
+ <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->  
+  
+![Issues](https://img.shields.io/github/issues/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
+<!--
+![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)
+-->
+
+
+![IPL Header](./src/img/header.png)  
+  
+**Indian Premier League**  
+The Indian Premier League (IPL) is a professional **Twenty20** cricket league in India contested during March or **April** and April-May of every year by **eight teams** representing eight different cities or states in India.[3] The league was founded by the Board of Control for Cricket in India (BCCI) in 2008.  
+  
+The IPL is the most-attended cricket league in the world and in 2014 ranked sixth by average attendance among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube.   
+The **brand value** of the IPL in 2019 was **US$ 6.7 billions**, according to Duff & Phelps, the 2015 IPL season alone contributed US$160 million to the GDP of the Indian economy.   
+  
+There have been twelve seasons of the IPL tournament. The current IPL title holders are the **Mumbai Indians**, who won the 2019 season. The venue for the 2020 season has been moved, due to the ongoing COVID-19 pandemic; games will now take place in the United Arab Emirates from 19 September through 10 November.  
 
 ---
 
@@ -64,7 +81,7 @@ _Folder structure conventions_ for the **dataset-defination** branch of this pro
     ├── Datasets                # Stores all the datasets used in the project
     │
     ├── README.md
-    |
+    │
     ├── deliveries.md           # Names of the 21 unique column headers for the deliveries.csv file
     │
     ├── matches.md              # Names of the 18 column headers for the matches.csv file
@@ -121,18 +138,23 @@ git checkout my-branch
 6. Push your contribution to your cloned repository  
 ```git push origin my-branch```  
 
-  
-## Contributors' List
+7. Make a pull request.
 
+## Contribution Guidelines
+
+* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
+  
+```markdown
+   @all-contributors please add @<username> for <contributions>
+```
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):  
+  
+<!-- 
 Don't forget to add your name into the ```Contributors.md``` in following format:  
 ```* [Your Name](https://github.com/<your-github-username>/)```  
+-->
+Find those who participated in this project in the [contributors'](./contributors.md) list!  
 
-Please read [Contributors.md](https://github.com/Team-thedatatribune/Contributors.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-Find those who participated in this project in the [contributors'](https://github.com/your/project/contributors) list!  
-  
-  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
