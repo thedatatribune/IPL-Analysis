@@ -9,6 +9,31 @@ Let's come together and contribute!!
   
 ---
 
+_Folder structure conventions for the **dataset-defination** branch of this project:_
+ 
+```
+    .
+    .
+    ├── Datasets                # Stores all the datasets used in the project
+    │
+    ├── Details                 # Detailed description about the datasets
+    │   │
+    │   ├── deliveries.md  
+    │   │
+    │   ├── matches.md  
+    │   │
+    │   ├── players.md  
+    │   .
+    │   .
+    │   └── ...   
+    │
+    ├── README.md  
+    │
+    └── ...
+```  
+  
+---
+
 
 ## Available Datasets :
 
