@@ -49,7 +49,7 @@ You are almost there, now it time for you to be listed on our [contributors' pag
 ```markdown
    @all-contributors please add @<username> for <contributions-type>
 ```  
-_Just relace <username> with your name and <contributors-type> with the type of contribution._  
+Just relace <username> with your name and <contributors-type> with the type of contribution.  
   
 You can find the contribution types at [emoji key](https://allcontributors.org/docs/en/emoji-key). Thanks goes to these wonderful people!  
   
