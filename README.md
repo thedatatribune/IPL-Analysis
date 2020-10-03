@@ -6,7 +6,9 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
+<!--
 ![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)
+-->
 
 
 ![IPL Header](./src/img/header.png)  
