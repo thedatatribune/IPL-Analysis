@@ -142,7 +142,7 @@ git checkout my-branch
 
 ## Contribution Guidelines
 
-* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
+* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)  
   
 ```markdown
    @all-contributors please add @<username> for <contributions>
