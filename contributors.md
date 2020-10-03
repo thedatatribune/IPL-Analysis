@@ -31,7 +31,7 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 ---
 
 Are you not listed in this file even after being a contributor???  
-No worries, add yourself in simple steps... Checkout the [contribution guide](./CONTRIBUTING.md) file for further instructions.
+No worries, add yourself in simple steps... Checkout the [contribution guide](./contributionGuide.md) file for further instructions.
   
 ---
   
