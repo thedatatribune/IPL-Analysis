@@ -35,4 +35,4 @@ No worries, add yourself in simple steps... Checkout the [contribution guide](./
   
 ---
   
-[Back to Home](../)
+[Back to Home](https://team-thedatatribune.github.io/IPL-Analysis/)
