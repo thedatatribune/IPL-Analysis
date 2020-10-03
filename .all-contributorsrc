@@ -58,6 +58,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "kraken-sudo",
+      "name": "kraken-sudo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/65814097?v=4",
+      "profile": "https://github.com/kraken-sudo",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
