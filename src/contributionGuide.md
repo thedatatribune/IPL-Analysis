@@ -2,7 +2,7 @@
 
 > Call for data providers! We're looking for [latest data providers](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) for onging IPL seasion 2020!
 
-We are maintaining a file called [```Stats2020.md```](./Stats2020.md) to sore the latest data and fun facts!  
+We are maintaining a file called [```Stats2020.md```](../Stats2020.md) to sore the latest data and fun facts!  
 
 ## Improve the IPL-Analysis documentation! 🖆
 
@@ -34,7 +34,7 @@ git checkout my-branch
 > * **Add Code:** Share your code after performing some data-analysis, model in the [code section](https://github.com/Team-thedatatribune/IPL-Analysis/tree/master/Codes).  
 > * **Add Visualizations:** Generate and add some awesome visualizations by analyzing the available datasets in [visualizations](https://github.com/Team-thedatatribune/IPL-Analysis/tree/master/Visualizations).  
 > * **Add Descriptions:** Help us improve the documentations at different aspects viz [defining datasets](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination/Details), defining significance of available [codes](https://github.com/Team-thedatatribune/IPL-Analysis/blob/master/Codes.md) and [visualizations](https://github.com/Team-thedatatribune/IPL-Analysis/blob/master/Visualizations.md) etc..  
-> * **Add Hot Facts:** As mentioned, we are _ready to grab_ the latest updates in [```Stats2020.md```](./Stats2020.md)  
+> * **Add Hot Facts:** As mentioned, we are _ready to grab_ the latest updates in [```Stats2020.md```](../Stats2020.md)  
 
 6. **Push your contribution** to your cloned repository  
 ```
@@ -45,7 +45,7 @@ git push origin my-branch
 
 ## Add yourself as a contributor ➕  
   
-You are almost there, now it time for you to be listed on our [contributors' page](./contributors.md). Just find your pull request and comment a message right below in the following fromat:  
+You are almost there, now it time for you to be listed on our [contributors' page](../contributors.md). Just find your pull request and comment a message right below in the following fromat:  
 ```markdown
    @all-contributors please add @<username> for <contributions-type>
 ```  
