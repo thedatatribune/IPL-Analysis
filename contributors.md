@@ -6,9 +6,7 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 ## Organizer & Maintainer  
 <table>
   <tr>
-    <center>
     <td align="center"><a href="https://thedatatribune.com/"><img src="https://avatars2.githubusercontent.com/u/66610299?s=200&v=4" width="120px;" alt=""/><br /><sub><b>The Data Tribune</b></sub></a><br /><a href="#eventOrganizing-mentoring-maintenance-thedatatribune" title="Event Organizing, Mentoring & Maintenance">📋 🧑‍🏫 🚧</a></td>
-    </center>
   </tr>
 </table> 
   
@@ -32,4 +30,4 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
 ---
 
 Are you not listed in this file even after being a contributor???  
-No worries, add yourself in simple steps... Checkout the [README](https://github.com/Team-thedatatribune/IPL-Analysis/blob/master/README.md) file for further instructions.
+No worries, add yourself in simple steps... Checkout the [README](./README.md) file for further instructions.
