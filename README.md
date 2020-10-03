@@ -29,75 +29,22 @@ There have been twelve seasons of the IPL tournament. The current IPL title hold
 
 This project aims to collect the various data related to _**Indian Premier League**_ regardless of any particular season. Our basic focus is to bring **unseen facts** through visualizing the various data figures, so that we can avail a range of good ideas & scopes about the possible data science work.  
 
-## Folder Structure Conventions
+<!--
+## Scope of this repository
+Our data analysis can be carried out in order to acheive the following outcomes:
+a) How long (in terms of runs) a partnership between batsmen can go if provided boller is bolling currently
+b) Hence, how much a team can score in an inning or 1st powerplay (provided data of first over)
+c) We can make a ML model to predict the final ranking of the teams in points-table by the end of current season (based on the stats and data about the results of the previous few matches)..... and many more...
 
-This project has **two** branches:  
+Let's know your ideas as well....
+-->
+  
+## Wanna Contribute? 
+  
+It'd be great to join us and work toward some outstanding Data Science & AI/ML projects.  
+Let's introduce a quick guide to being towards the contribution!!  
 
-> 1. **master** :  
->   _It's the default and the main branch of the project_
-> 2. **dataset-definations** :  
->   _This branch basically holds the datasets and their proper documentations_  
-
-  
-_Folder structure conventions_ for the **master** branch of this project:  
-
-```
-    .
-    .
-    ├── Codes                   # Stores all the codes and programs
-    │
-    ├── Visualizations          # Holds visuals or graphs (from exploratory data analysis)
-    │
-    ├── src                     # Holds content used in formal documentations
-    │   │
-    │   ├── img                 # Stores images etc.. used in project documentation
-    │   │
-    │   .
-    │   .
-    │   └── ...         
-    │
-    ├── Codes.md                # Formal info about codes and their usage
-    │
-    ├── Datasets.md             # Information & links to the datasets used
-    │
-    ├── Visualizations.md       # Documentations on discovered visualizations (from data analysis)   
-    │   
-    ├── IPL2020_Stats.md        # Latest stats on IPL-2020
-    │
-    │
-    ├── contributors.md         # Link to the contributors' github profiles
-    │
-    ├── README.md                  
-    │
-    └── ...
-```
-  
-
-_Folder structure conventions_ for the **dataset-defination** branch of this project:   
-  
-```
-    .
-    .
-    ├── Datasets                # Stores all the datasets used in the project
-    │
-    ├── Details                 # Detailed description about the datasets
-    │   │
-    │   ├── deliveries.md  
-    │   │
-    │   ├── matches.md  
-    │   │
-    │   ├── players.md  
-    │   .
-    │   .
-    │   └── ...   
-    │
-    ├── README.md  
-    │
-    └── ...
-```  
-  
-  
-## Getting Started
+### Getting Started
 
  Just going through a certain steps, you can easily begin with your work!  
  Have a glimpse below:  
@@ -117,46 +64,89 @@ _Folder structure conventions_ for the **dataset-defination** branch of this pro
  4. **Work Independently**  
  If you are confident enough in some other field say documentation/content-presentation or enhencement, you are most welcome.  
  You can also contribute with any other work, apart from those which are mentioned above. Just, make sure they are relavent to this project.
+
+### Folder Structure Conventions
+
+This project has **two** branches:  
+
+> 1. **master** :  
+>   _It's the default and the main branch of the project_
+> 2. **dataset-definations** :  
+>   _This branch basically holds the datasets and their proper documentations_  
+
   
+_Folder structure conventions_ for the **master** branch of this project:  
 
-## How to Contribute?
-
-Follow the following the steps to contribute:  
-1. Fork [this](https://github.com/Team-thedatatribune/IPL-Analysis) repository
-
-2. Clone your fork using following simple terminal command  
-```git clone https://github.com/<your-github-username>/IPL-Analysis.git```
-
-3. Open the cloned repository in any of the text editor
-
-4. Before you begin with editing, create a new branch and checkout into it
 ```
-git branch my-branch
-git checkout my-branch
+    .
+    .
+    ├── Codes                   # All available codes
+    │
+    ├── Visualizations          # All visuals or graphs etc..
+    │
+    ├── src                     # Formal documentations of repo
+    │   │
+    │   ├── img                 # Stores documentation images 
+    │   │
+    │   .
+    │   .
+    │   └── ...         
+    │
+    ├── Codes.md                # Formal info about codes and their usage
+    │
+    ├── Datasets.md             # Brief intro about available datasets 
+    │
+    ├── Visualizations.md       # Documentations for visualizations
+    │   
+    ├── Stats2020.md            # Latest stats on IPL-2020
+    │
+    │
+    ├── contributors.md         # All contributors' list
+    │
+    ├── README.md                  
+    │
+    └── ...
 ```
-
-5. Make your Contribution that might be any of the following  
-> * Add Datasets  
-> * Add Code  
-> * Add Visualizations  
-> * Add Hot Facts  
-> * Create/Enhance your Documantation or do the Grammar Corrections  
   
-6. Push your contribution to your cloned repository  
-```git push origin my-branch```  
-
-7. Make a pull request.
-
-## Add Yourself as a Contributor
-
-* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors-type> with the type of contribution.  
- 
-```markdown
-   @all-contributors please add @<username> for <contributions-type>
+_Folder structure conventions_ for the **dataset-defination** branch of this project:   
+  
 ```
-You can find the contribution types at [emoji key](https://allcontributors.org/docs/en/emoji-key). Thanks goes to these wonderful people!  
-Checkout our [contributors' list](./contributors.md) now!  
+    .
+    .
+    ├── Datasets                # All available datasets
+    │   │
+    │   ├── deliveries.csv  
+    │   │
+    │   ├── matches.csv  
+    │   │
+    │   ├── players.csv  
+    │   .
+    │   .
+    │   └── ...   
+    │
+    ├── Details                 # Datasets' detailed description
+    │   │
+    │   ├── deliveries.md  
+    │   │
+    │   ├── matches.md  
+    │   │
+    │   ├── players.md  
+    │   .
+    │   .
+    │   └── ...   
+    │
+    ├── README.md  
+    │
+    └── ...
+```  
+  
+### Contribution Guide  
+
+We have got a range of contributors, since we've started with this peoject. In fact you explore our [contributors' list](./contributors.md) to know about them!  
+If you too wish to be in our contributors' list, it'd be our pleasure ;))  
+It involves a sequence of easy and simple steps to be there so!  
+Head towards our [contribution guide](./CONTRIBUTING.md) right now to give your contribution!!  
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
