@@ -43,7 +43,7 @@ git push origin my-branch
 
 ## Add yourself as a contributor
 
-* You are almost there, now it time for you to be listed on our [contributors page](./contributors.md). Just find your pull request and comment a message right below in the following fromat:  
+* You are almost there, now it time for you to be listed on our [contributors' page](./contributors.md). Just find your pull request and comment a message right below in the following fromat:  
 ```markdown
    @all-contributors please add @<username> for <contributions-type>
 ```
