@@ -4,13 +4,13 @@
 Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.com/Team-thedatatribune/IPL-Analysis) by the mutual efforts of following contributors.  
 
 ## Maintainer
-
-**Initial Author**  
-[Team - The Data Tribune](https://github.com/Team-thedatatribune/)
-
-**Organization's Profile**  
-[The Data Tribune](https://github.com/thedatatribune/)
-
+  
+## Organizer  
+<table>
+  <tr>
+    <td align="center"><a href="https://thedatatribune.com/"><img src="https://avatars2.githubusercontent.com/u/66610299?s=200&v=4" width="160px;" alt=""/><br /><sub><b>The Data Tribune</b></sub></a><br /><a href="#eventOrganizing-mentoring-maintenance-thedatatribune" title="Event Organizing, Mentoring & Maintenance">📋 🧑‍🏫 🚧</a></td>
+  </tr>
+</table> 
   
   
 ## Contributors
