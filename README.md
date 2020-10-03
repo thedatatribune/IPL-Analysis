@@ -1,4 +1,7 @@
 # IPL Analysis  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ### A Data Science Project  
 
  
@@ -137,6 +140,18 @@ git checkout my-branch
 ## Contributors' List
 
 * You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://ravi-prakash1907.gitlab.io/"><img src="https://avatars2.githubusercontent.com/u/38535224?v=4" width="100px;" alt=""/><br /><sub><b>Ravi Prakash</b></sub></a><br /><a href="#content-ravi-prakash1907" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 ```markdown
    @all-contributors please add @<username> for <contributions>
 ```
