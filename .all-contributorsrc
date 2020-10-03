@@ -13,9 +13,27 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "KemmieKemy",
+      "name": "Ekemini Okpongkpong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26260619?v=4",
+      "profile": "https://medium.com/@kemmie",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "abhisht51",
+      "name": "Abhisht Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/39940817?v=4",
+      "profile": "https://github.com/abhisht51",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 4,
+  "contributorsPerLine": 7,
   "projectName": "IPL-Analysis",
   "projectOwner": "Team-thedatatribune",
   "repoType": "github",

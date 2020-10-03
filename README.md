@@ -1,7 +1,11 @@
 # IPL Analysis  
+
 ### A Data Science Project  
 
- 
+ <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+![All Contributors](https://img.shields.io/github/contributors/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->  
+  
 ![Issues](https://img.shields.io/github/issues/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
@@ -136,20 +140,15 @@ git checkout my-branch
 
 7. Make a pull request.
 
-## Contributors' List
+## Add Yourself as a Contributor
 
-* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
-  
+* You are almost there, now it time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors-type> with the type of contribution.  
+ 
 ```markdown
-   @all-contributors please add @<username> for <contributions>
+   @all-contributors please add @<username> for <contributions-type>
 ```
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):  
-  
-<!-- 
-Don't forget to add your name into the ```Contributors.md``` in following format:  
-```* [Your Name](https://github.com/<your-github-username>/)```  
-Find those who participated in this project in the [contributors'](./contributors.md) list!  
--->
+You can find the contribution types at [emoji key](https://allcontributors.org/docs/en/emoji-key). Thanks goes to these wonderful people!  
+Checkout our [contributors' list](./contributors.md) now!  
 
 ## License
 
