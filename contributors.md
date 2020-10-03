@@ -1,5 +1,5 @@
 
-# Our Proud Contributors
+# Our Proud Contributors ✨
 
 Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.com/Team-thedatatribune/IPL-Analysis) by the mutual efforts of following contributors.  
 
