@@ -17,7 +17,7 @@
 
 ![IPL Header](./src/img/header.png)  
   
-**Indian Premier League**  
+**Indian Premier League** 🏏 
 The Indian Premier League (IPL) is a professional **Twenty20** cricket league in India contested during March or **April** and April-May of every year by **eight teams** representing eight different cities or states in India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2008.  
   
 The IPL is the most-attended cricket league in the world and in 2014 ranked sixth by average attendance among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube.   
@@ -39,12 +39,12 @@ c) We can make a ML model to predict the final ranking of the teams in points-ta
 Let's know your ideas as well....
 -->
   
-## Wanna Contribute? 
+## Wanna Contribute? ✨
   
 It'd be great to join us and work toward some outstanding Data Science & AI/ML projects.  
 Let's introduce a quick guide to being towards the contribution!!  
 
-### Getting Started
+### Getting Started :turtle:
 
  Just going through a certain steps, you can easily begin with your work!  
  Have a glimpse below:  
@@ -65,7 +65,7 @@ Let's introduce a quick guide to being towards the contribution!!
  If you are confident enough in some other field say documentation/content-presentation or enhencement, you are most welcome.  
  You can also contribute with any other work, apart from those which are mentioned above. Just, make sure they are relavent to this project.
 
-### Folder Structure Conventions
+### Folder Structure Conventions 📂
 
 This project has **two** branches:  
 
@@ -140,13 +140,12 @@ _Folder structure conventions_ for the **dataset-defination** branch of this pro
     └── ...
 ```  
   
-### Contribution Guide  
+### Contribution Guide :book:  
 
 We have got a range of contributors, since we've started with this peoject. In fact you explore our [contributors' list](./contributors.md) to know about them!  
-If you too wish to be in our contributors' list, it'd be our pleasure ;))  
-It involves a sequence of easy and simple steps to be there so!  
-Head towards our [contribution guide](./contributionGuide.md) right now to give your contribution!!  
+If you too wish to be in our contributors' list, it'd be our pleasure :smile:  
+It involves a sequence of easy and simple steps to be there so! Head towards our [contribution guide](./contributionGuide.md) right now to give your contribution!!  
 
-## License
+## License ⚖️
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
