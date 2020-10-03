@@ -10,9 +10,6 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
-<!--
-![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)
--->
 
 
 ![IPL Header](./src/img/header.png)  
@@ -65,7 +62,7 @@ Let's introduce a quick guide to being towards the contribution!!
  If you are confident enough in some other field say documentation/content-presentation or enhencement, you are most welcome.  
  You can also contribute with any other work, apart from those which are mentioned above. Just, make sure they are relavent to this project.
 
-### Folder Structure Conventions 📂
+### Folder Conventions 📂
 
 This project has **two** branches:  
 
