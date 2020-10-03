@@ -152,8 +152,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- 
 Don't forget to add your name into the ```Contributors.md``` in following format:  
 ```* [Your Name](https://github.com/<your-github-username>/)```  
-Find those who participated in this project in the [contributors'](./contributors.md) list!  
 -->
+Find those who participated in this project in the [contributors'](./contributors.md) list!  
 
 ## License
 
