@@ -1,4 +1,4 @@
-# Contribute & Help Us Improve
+## Contribute & Help Us Improve
 
 > Call for data providers! We're looking for [latest data providers](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) for onging IPL seasion 2020!
 
