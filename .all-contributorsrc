@@ -13,6 +13,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "KemmieKemy",
+      "name": "Ekemini Okpongkpong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26260619?v=4",
+      "profile": "https://medium.com/@kemmie",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
