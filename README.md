@@ -140,7 +140,7 @@ _Folder structure conventions_ for the **dataset-defination** branch of this pro
 ### Contribution Guide 📚  
 
 We have got a range of contributors, since we've started with this peoject. In fact you explore our [contributors' list](./contributors.md) to know about them!  
-If you too wish to be in our contributors' list, it'd be our pleasure :smile:  
+If you too wish to be in our contributors' list, it'd be our pleasure 😃   
 It involves a sequence of easy and simple steps to be there so! Head towards our [contribution guide](./src/contributionGuide.md) right now to give your contribution!!  
 
 ## License ⚖️
