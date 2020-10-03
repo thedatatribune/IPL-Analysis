@@ -92,7 +92,7 @@ _Folder structure conventions_ for the **master** branch of this project:
     │   .
     │   └── ...         
     │
-    ├── Codes.md                # Formal info about codes and their usage
+    ├── Codes.md                # Formal info about codes & their usage
     │
     ├── Datasets.md             # Brief intro about available datasets 
     │
