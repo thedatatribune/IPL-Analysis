@@ -50,7 +50,7 @@ Let's introduce a quick guide to being towards the contribution!!
  Explore the various datasets available in the [```Datasets```](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) directory.  
  You can contribute by adding your own dataset to this branch, as well!!  
 
- 2. **Code Parallelly**
+ 2. **Code Parallelly**  
  Find the dataset that interests you and begin with the codes to analyse the data.  
  You can share your code regardless of the language you use to code.  
 
