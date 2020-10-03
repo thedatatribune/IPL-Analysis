@@ -17,7 +17,9 @@ Follow the following the steps to contribute:
 1. **Fork** [this](https://github.com/Team-thedatatribune/IPL-Analysis) repository  
 
 2. **Clone** your fork using following simple terminal command  
-```git clone https://github.com/<your-github-username>/IPL-Analysis.git```
+```
+git clone https://github.com/<your-github-username>/IPL-Analysis.git
+```
 
 3. Open the cloned repository in any of the **text editor**  
 
@@ -41,13 +43,13 @@ git push origin my-branch
 
 7. **Pull Request:** Finally make a pull request mentioning the issue (if any).  
 
-## Add yourself as a contributor ➕
-
-* You are almost there, now it time for you to be listed on our [contributors' page](./contributors.md). Just find your pull request and comment a message right below in the following fromat:  
+## Add yourself as a contributor ➕  
+  
+You are almost there, now it time for you to be listed on our [contributors' page](./contributors.md). Just find your pull request and comment a message right below in the following fromat:  
 ```markdown
    @all-contributors please add @<username> for <contributions-type>
 ```  
-Just relace <username> with your name and <contributors-type> with the type of contribution.  
+_Just relace <username> with your name and <contributors-type> with the type of contribution._  
   
 You can find the contribution types at [emoji key](https://allcontributors.org/docs/en/emoji-key). Thanks goes to these wonderful people!  
   
