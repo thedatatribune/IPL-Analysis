@@ -1,4 +1,4 @@
-# IPL Analysis  
+# IPL Analysis 🏏  
 
 ### A Data Science Project  
 
@@ -17,7 +17,7 @@
 
 ![IPL Header](./src/img/header.png)  
   
-**Indian Premier League** 🏏 
+**Indian Premier League**   
 The Indian Premier League (IPL) is a professional **Twenty20** cricket league in India contested during March or **April** and April-May of every year by **eight teams** representing eight different cities or states in India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2008.  
   
 The IPL is the most-attended cricket league in the world and in 2014 ranked sixth by average attendance among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube.   
@@ -44,7 +44,7 @@ Let's know your ideas as well....
 It'd be great to join us and work toward some outstanding Data Science & AI/ML projects.  
 Let's introduce a quick guide to being towards the contribution!!  
 
-### Getting Started :turtle:
+### Getting Started 🐢
 
  Just going through a certain steps, you can easily begin with your work!  
  Have a glimpse below:  
@@ -140,7 +140,7 @@ _Folder structure conventions_ for the **dataset-defination** branch of this pro
     └── ...
 ```  
   
-### Contribution Guide :book:  
+### Contribution Guide 📚  
 
 We have got a range of contributors, since we've started with this peoject. In fact you explore our [contributors' list](./contributors.md) to know about them!  
 If you too wish to be in our contributors' list, it'd be our pleasure :smile:  
