@@ -1,0 +1,42 @@
+{
+  "files": [
+    "contributors.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ravi-prakash1907",
+      "name": "Ravi Prakash",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38535224?v=4",
+      "profile": "https://ravi-prakash1907.gitlab.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "KemmieKemy",
+      "name": "Ekemini Okpongkpong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26260619?v=4",
+      "profile": "https://medium.com/@kemmie",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "abhisht51",
+      "name": "Abhisht Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/39940817?v=4",
+      "profile": "https://github.com/abhisht51",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "IPL-Analysis",
+  "projectOwner": "Team-thedatatribune",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
