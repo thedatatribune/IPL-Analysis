@@ -33,7 +33,7 @@ Since 1<sup>st</sup> October, we grew up with [**IPL-Analysis**](https://github.
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kraken-sudo"><img src="https://avatars3.githubusercontent.com/u/65814097?v=4" width="100px;" alt=""/><br /><sub><b>kraken-sudo</b></sub></a><br /><a href="#content-kraken-sudo" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/imkrantiprasad"><img src="https://avatars3.githubusercontent.com/u/57789517?s=120&v=4" width="100px;" alt=""/><br /><sub><b>imkrantiprasad</b></sub></a><br /><a href="#code-imkrantiprasad" title="Code">🖋</a></td>
+    <td align="center"><a href="https://github.com/imkrantiprasad"><img src="https://avatars3.githubusercontent.com/u/57789517?s=120&v=4" width="100px;" alt=""/><br /><sub><b>imkrantiprasad</b></sub></a><br /><a href="#code-imkrantiprasad" title="Code">💻</a></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
