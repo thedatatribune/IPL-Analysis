@@ -2,9 +2,10 @@ name: Add contributors
 on:
   schedule:
     - cron:  '20 20 * * *'
-# push:
-#   branches:
-#     - master
+    
+  push:
+   branches:
+     - master
 
 jobs:
   add-contributors:
@@ -14,8 +15,8 @@ jobs:
     - uses: Team-thedatatribune/IPL-Analysis@master
       with:
         REPO_NAME: 'Team-thedatatribune/IPL-Analysis'
-        CONTRIBUTOR: '### Contributors'
-        COLUMN_PER_ROW: '6'
+        CONTRIBUTOR: 'Contributors'
+        COLUMN_PER_ROW: '3'
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
         FONT_SIZE: '14'
