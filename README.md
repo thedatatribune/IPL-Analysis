@@ -15,6 +15,7 @@
 ![IPL Header](./src/img/header.png)  
   
 **Indian Premier League**   
+This project was opened initially to track and pridict for the IPL 2020. Now, we aim to take it forward for 2021 as well.  
 The Indian Premier League (IPL) is a professional **Twenty20** cricket league in India contested during March or **April** and April-May of every year by **eight teams** representing eight different cities or states in India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2008.  
   
 The IPL is the most-attended cricket league in the world and in 2014 ranked sixth by average attendance among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube.   
