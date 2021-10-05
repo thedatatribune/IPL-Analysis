@@ -2,8 +2,8 @@
 
 > Call for data providers! We're looking for [latest data providers](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) for onging IPL seasion 2020!
 
-We are maintaining a file called [```Stats2021.md```](../Stats2021.md) to sore the latest data and fun facts!  
-Previous stats could be found at [```Stats2020.md```](../Stats2020.md)!  
+We are maintaining a file called [```Stats2021.md```](../Stats/Stats2021.md) to sore the latest data and fun facts!  
+Previous stats could be found at [```Stats2020.md```](../Stats/Stats2020.md)!  
 
 ## Improve the IPL-Analysis documentation! 🖆
 
