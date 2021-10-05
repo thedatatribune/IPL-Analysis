@@ -96,7 +96,14 @@ _Folder structure conventions_ for the **master** branch of this project:
     │
     ├── Visualizations.md       # Documentations for visualizations
     │   
-    ├── Stats2020.md            # Latest stats on IPL-2020
+    ├── Stats                   # Stats holding directory
+    │   │
+    │   ├── Stats2020.md        # Previous stats on IPL-2020 
+    │   │
+    │   ├── Stats2021.md        # Previous stats on IPL-2021 
+    │   .
+    │   .
+    │   └── ...     
     │
     │
     ├── contributors.md         # All contributors' list
